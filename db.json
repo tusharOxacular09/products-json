@@ -1,0 +1,165 @@
+{
+  "products":[
+  {
+    "id": 1,
+    "name": "Green Olive Lavender Scalp Oil",
+    "description": "A moisturizing scalp oil made with green olive and lavender.",
+    "price": "14.99",
+    "rating": "4.5",
+    "image": "https://your-uploaded-image-url.com"
+  },
+  {
+    "id": 2,
+    "name": "Organic Aloe Vera Gel",
+    "description": "Pure aloe vera gel for soothing skin care.",
+    "price": "8.99",
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-1530745342582-0795f23ec976?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZHVjdHN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 3,
+    "name": "Natural Bamboo Toothbrush",
+    "description": "Eco-friendly bamboo toothbrush for a sustainable lifestyle.",
+    "price": "3.49",
+    "rating": "4.3",
+    "image": "https://images.unsplash.com/photo-1517635676447-3a480fbfd8f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 4,
+    "name": "Reusable Cotton Rounds",
+    "description": "Soft and reusable cotton rounds for makeup removal.",
+    "price": "5.99",
+    "rating": "4.8",
+    "image": "https://mma.prnewswire.com/media/817774/product_of_the_year_2019.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Lavender Scented Candle",
+    "description": "Relaxing lavender scented candle for a calming ambiance.",
+    "price": "12.49",
+    "rating": "4.6",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9URD1bHkHj5XQZiaXWGovmIKhhB_QzW_qBFKhilhY1SvNp7pBcmv3lqS069eOqGKgWeA&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "name": "Natural Deodorant Stick",
+    "description": "Aluminum-free natural deodorant with a fresh scent.",
+    "price": "9.99",
+    "rating": "4.4",
+    "image": "https://images.unsplash.com/photo-1583312483851-2492f87df0c1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 7,
+    "name": "Charcoal Face Mask",
+    "description": "Detoxifying charcoal face mask for clear skin.",
+    "price": "7.99",
+    "rating": "4.2",
+    "image": "https://images.unsplash.com/photo-1543949349-2db53c1c6b0d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 8,
+    "name": "Organic Shea Butter",
+    "description": "Pure organic shea butter for deep hydration.",
+    "price": "11.49",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-1571019613917-1e2c64d83219?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 9,
+    "name": "Herbal Tea Blend",
+    "description": "A calming blend of herbal tea leaves.",
+    "price": "6.99",
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-1590353836076-7cdac4b80db3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 10,
+    "name": "Coconut Oil Hair Mask",
+    "description": "Nourishing coconut oil hair mask for soft hair.",
+    "price": "13.99",
+    "rating": "4.5",
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 11,
+    "name": "Himalayan Salt Lamp",
+    "description": "Soothing Himalayan salt lamp for a serene environment.",
+    "price": "19.99",
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-1521702811167-2d4293d4a12b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 12,
+    "name": "Turmeric Face Scrub",
+    "description": "Exfoliating turmeric face scrub for glowing skin.",
+    "price": "9.49",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-1582560478612-70d2d6a539b7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 13,
+    "name": "Peppermint Lip Balm",
+    "description": "Refreshing peppermint lip balm for soft lips.",
+    "price": "3.99",
+    "rating": "4.4",
+    "image": "https://images.unsplash.com/photo-1548895654-3b3c929c4c74?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 14,
+    "name": "Reusable Beeswax Wraps",
+    "description": "Eco-friendly beeswax wraps for food storage.",
+    "price": "10.99",
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-1518693024872-4e94a3a1e1b1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 15,
+    "name": "Bamboo Charcoal Toothpaste",
+    "description": "Whitening toothpaste with bamboo charcoal.",
+    "price": "7.49",
+    "rating": "4.3",
+    "image": "https://images.unsplash.com/photo-1556228724-4d7c1e05d46a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 16,
+    "name": "Herbal Bath Soak",
+    "description": "Relaxing herbal bath soak for a soothing bath.",
+    "price": "11.99",
+    "rating": "4.5",
+    "image": "https://images.unsplash.com/photo-1591033072547-f95e75d6f5df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 17,
+    "name": "Lavender Body Lotion",
+    "description": "Moisturizing body lotion with lavender extract.",
+    "price": "9.99",
+    "rating": "4.4",
+    "image": "https://images.unsplash.com/photo-1535982057124-64c3cdd2a4b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODF8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 18,
+    "name": "Natural Bath Bombs",
+    "description": "Set of natural bath bombs for a relaxing bath.",
+    "price": "14.49",
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-1511381939415-ec19df7e09b4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODN8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 19,
+    "name": "Aloe Vera Face Cream",
+    "description": "Hydrating face cream with aloe vera extract.",
+    "price": "13.99",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-1556228724-4d7c1e05d46a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODR8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 20,
+    "name": "Rosewater Facial Toner",
+    "description": "Refreshing facial toner with rosewater.",
+    "price": "10.99",
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-1564849444446-0b344ca58b16?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODd8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+  }
+],
+  "carts": []
+}
